@@ -51,7 +51,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2018.09 - 2022.06*, B.Sc. in Chemistry with Honors, ChoKoChen Honors College, Zhejiang University. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.03*, Invited as mentor for Women in Data Science (WiDS) at Brown. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
