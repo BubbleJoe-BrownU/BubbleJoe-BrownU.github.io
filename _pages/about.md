@@ -43,16 +43,18 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.05* Outstanding Graduates.
+- *2021.10* Zhejiang University Scholarship, First Prize.
+- *2019.10* Zhejiang University Scholarship, First Prize. 
+- *2019.09* Outstanding Students. 
 
 # 📖 Educations
 - *2022.09 - Present*, M.Sc. in Data Science, Data Science Institute, Brown University. 
-- *2018.09 - 2022.06*, B.Sc. in Chemistry with Honors, ChoKoChen Honors College, Zhejiang University. 
+- *2018.09 - 2022.06*, B.Sc. in Chemistry with Honors, Cho KoChen Honors College, Zhejiang University. 
 
 # 💬 Invited Talks
-- *2022.03*, Invited as mentor for Women in Data Science (WiDS) at Brown. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.03*, Invited mentor for Women in Data Science (WiDS) at Brown. 
+
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
