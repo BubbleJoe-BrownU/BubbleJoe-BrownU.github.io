@@ -23,12 +23,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06*: &nbsp;🎉🎉 Research intern at Conversational AI Lab at Brown University.
+- *2022.09*: &nbsp;🎉🎉 I'll be joining Brown University as a DS MS student.
+- *2022.06*: &nbsp;🎉🎉 Graduated from Zhejiang University as Outstanding Graduates.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+[\\] # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -40,7 +41,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**)
 
 # 🎖 Honors and Awards
 - *2022.05* Outstanding Graduates.
@@ -53,8 +54,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2018.09 - 2022.06*, B.Sc. in Chemistry with Honors, Cho KoChen Honors College, Zhejiang University. 
 
 # 💬 Invited Talks
-- *2022.03*, Invited mentor for Women in Data Science (WiDS) at Brown. 
+- *2022.03*, Invited mentor for Women in Data Science (WiDS) at Brown University. 
 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.06 - 2023.09*, Research Internship, Conversational AI Lab, Brown University.
