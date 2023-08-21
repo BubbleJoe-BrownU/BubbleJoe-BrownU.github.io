@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi! I am a Data Science master student at Brown University. I am expected to graduate in 2024, and am looking forward to apply for a Ph.D. program related to Computer Science, Data Science and Artificial Intelligence. If you are looking for a Ph.D. student, I am a gold choice for you!
+
+Previously, in 2022, I received my bachelor's degree with honors in Chemistry at [Cho Kochen Honors College](http://ckc.zju.edu.cn/ckcen/wbout/list.htm), Zhejiang University. I also got a mini-minor in Computer Science.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+Email: {firstname} _ {lastname} @ brown.edu
 
 
 # 🔥 News
@@ -27,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.09*: &nbsp;🎉🎉 I'll be joining Brown University as a DS MS student.
 - *2022.06*: &nbsp;🎉🎉 Graduated from Zhejiang University as Outstanding Graduates.
 
-# 📝 Publication
+# 📝 Publications
 
 # 🎖 Honors and Awards
 - *2022.05* Outstanding Graduates.
