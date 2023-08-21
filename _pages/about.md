@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I am a Data Science master student at Brown University. I am expected to graduate in 2024, and am looking forward to apply for a Ph.D. program related to Computer Science, Data Science and Artificial Intelligence. If you are looking for a Ph.D. student, I am a gold choice for you!
 
-Previously, in 2022, I received my bachelor's degree with honors in Chemistry at [Cho Kochen Honors College](http://ckc.zju.edu.cn/ckcen/wbout/list.htm), Zhejiang University. I also got a mini-minor in Computer Science.
+Previously, in 2022, I received my bachelor's degree with honors in Chemistry at <a href='http://ckc.zju.edu.cn/ckcen/wbout/list.htm'>Cho Kochen Honors College</a>, Zhejiang University. I also got a mini-minor in Computer Science.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
