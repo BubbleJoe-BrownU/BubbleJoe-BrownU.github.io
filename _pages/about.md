@@ -27,7 +27,7 @@ Email: {first-name} _ {last-name} @ brown.edu
 
 
 # 🔥 News
-- *2023.06*: &nbsp;🎉🎉 Research intern at Conversational AI Lab at Brown University.
+- *2023.06*: &nbsp;🎉🎉 Research intern at Conversational AI Lab, Brown University.
 - *2022.09*: &nbsp;🎉🎉 I'll be joining Brown University as a DS MS student.
 - *2022.06*: &nbsp;🎉🎉 Graduated from Zhejiang University as Outstanding Graduates.
 
@@ -43,8 +43,10 @@ Email: {first-name} _ {last-name} @ brown.edu
 - *2022.09 - Present*, M.Sc. in Data Science, Data Science Institute, Brown University. 
 - *2018.09 - 2022.06*, B.Sc. in Chemistry with Honors, Cho KoChen Honors College, Zhejiang University. 
 
-# 💬 Invited Talks
-- *2022.03*, Invited mentor for Women in Data Science (WiDS) at Brown University. 
+# 💬 Experiences
+- *2022.06*, Research intern at Conversational AI Lab, Brown University.
+- *2022.03*, Invited mentor for Women in Data Science (WiDS) at Brown University.
+- *2020.02*, Undergraduate Head TA at Zhejiang University.
 
 
 # 💻 Internships
