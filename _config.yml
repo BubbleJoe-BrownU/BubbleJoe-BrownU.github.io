@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiayu Zheng - Homepage"
-description              : "Master student at Brown University. Focusing on data science, deep learning, NLP and VLM"
+title                    : "Jiayu Zheng"
+description              : "Academic homepage of Jiayu Zheng, currently a master student at Brown University. Focusing on data science, deep learning, NLP and VLM!"
 repository               : "BubbleJoe-BrownU/bubblejoe-brownu.github.io"
 google_scholar_stats_use_cdn : true
 
