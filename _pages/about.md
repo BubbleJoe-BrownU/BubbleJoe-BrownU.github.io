@@ -26,6 +26,9 @@ My research interests include three aspects. (1) To make high-performant models 
 Previously, in 2022, I received my bachelor's degree with honors at <a href='http://ckc.zju.edu.cn/ckcen/wbout/list.htm'>Cho Kochen Honors College</a>, Zhejiang University. I also got a mini-minor in computer science during 2021 - 2022.
 
 Email: {first-name} _ {last-name} @ brown.edu
+<a href='https://drive.google.com/file/d/1s-rXey7FF44fQ7-nKuw1CPvRphzxEUey/view'>CV</a>
+
+
 
 
 # 🔥 News
