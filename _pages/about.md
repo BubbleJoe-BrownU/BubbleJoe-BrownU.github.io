@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a data science master student at Brown University. I am expected to graduate in 2024, and am looking forward to apply for Ph.D. programs related to computer science, data science and artificial intelligence. If you are looking for a Ph.D. student, I would sincerely appreciate it if you could consider me as a candidate!
+Hi! I am a data science master student at Brown University, where I worked with Shekhar Pradhan. I am expected to graduate in 2024, and am looking forward to apply for Ph.D. programs related to computer science, data science and artificial intelligence. If you are looking for a Ph.D. student, I would sincerely appreciate it if you could consider me as a candidate!
 
 My research experience largely lies in computational linguistics, computer vision and vision-language models. I had research experience with building language models with image embeddings as additional supervision signals. I also implemented Transformer-like, GPT-like, and BERT-like models in my project, TransformerHub. In computer vision, I have implemented several well-known architectures like ConvNet, C-RNN, ViT, and Noisy Student Training, and also have plenty experience with evaluating models on datasets like ImageNet1K, MSCOCO, and etc. I am also familiar with some technique designs that make today's large models work, like gradient clipping, mixed precision training, self training, data parallelism, model parallelism, etc.
 
