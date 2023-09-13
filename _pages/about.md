@@ -38,6 +38,8 @@ Email: {first-name} _ {last-name} @ brown.edu
 
 # 📝 Publications
 
+- *2020* A Molecular Stereostructure Descriptor Based On Spherical Projection, Licheng Xu, Xin Li, Miaojiong Tang, Luotian Yuan, **Jiayu Zheng**, Shuoqing Zhang, Xin Hong
+
 # 🎖 Honors and Awards
 - *2022.05* Outstanding Graduates.
 - *2021.10* Zhejiang University Scholarship, First Prize.
@@ -49,6 +51,7 @@ Email: {first-name} _ {last-name} @ brown.edu
 - *2018.09 - 2022.06*, *Sc.B* in Chemistry with Honors, Cho KoChen Honors College, Zhejiang University. 
 
 # 💬 Experiences
+- *2023.09 - 2023.12*, Teaching Assistant for CS1410 Artificial Intelligence, Brown University.
 - *2023.06 - 2023.09*, Research intern at Conversational AI Lab, Brown University.
 - *2022.03*, Invited mentor for Women in Data Science (WiDS) at Brown University.
 - *2020.02 - 2020.10*, Undergraduate Head TA at Zhejiang University.
