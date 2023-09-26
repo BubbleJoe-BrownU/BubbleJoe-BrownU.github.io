@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiayu Zheng"
-description              : "Currently a data science master student at Brown University. Focusing on data science, deep learning, NLP and VLM!"
+description              : "Sc.M. student at Brown University. Interested in machine learning, deep learning, computational linguistics and vision-language models."
 repository               : "BubbleJoe-BrownU/bubblejoe-brownu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "jiayu_zheng@gmail.com"
+  email            : "jiayu_zheng (at) brown.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
