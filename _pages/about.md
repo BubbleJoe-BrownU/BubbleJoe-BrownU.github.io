@@ -42,7 +42,7 @@ Currently I am conducting research on improving performance of language models b
 
 # 📝 Publications and Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/noisy_student.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project 2023</div><img src='images/noisy_student.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GourmAIt: Training Robust Deep Neural Networks on Noisy Datasets](https://github.com/BubbleJoe-BrownU/GourmAIt)
@@ -54,7 +54,6 @@ larger-or-equal-size student model, which becomes the teacher model in the next 
 </div>
 </div>
 
-- *2023* [GourmAIt](https://github.com/BubbleJoe-BrownU/GourmAIt): Alleviate label noises with stochastic depth and Noisy Student Training.
 - *2020* A Molecular Stereostructure Descriptor Based On Spherical Projection, Licheng Xu, Xin Li, Miaojiong Tang, Luotian Yuan, **Jiayu Zheng**, Shuoqing Zhang, Xin Hong
 
 # 🎖 Honors and Awards
