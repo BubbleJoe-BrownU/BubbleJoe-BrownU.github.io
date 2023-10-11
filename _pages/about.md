@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a data science master's student at Brown University, where I work with Shekhar Pradhan and Ritambhara Singh in Conversational AI Lab as a research assistant. I am expected to graduate in 2024 and am actively applying for Ph.D. programs related to computer science, data science, and artificial intelligence.
+Hi! I am a data science master's student at Brown University, where I am working with several amazing professors, [Stephen Bach](https://cs.brown.edu/people/sbach/) in BATS Lab, and [Shekhar Pradhan](https://vivo.brown.edu/display/spradh15) together with [Ritambhara Singh](https://ritambharasingh.com/) in Conversational AI Lab as a research assistant. I am expected to graduate in 2024 and am actively applying for Ph.D. programs related to computer science, data science, and artificial intelligence.
 
 I have comprehensive knowledge of machine learning and deep learning algorithms and have implemented many of them, including but not limited to CNNs, RNNs, DGNs, GANs. I also implemented many Transformer models, including Transformer, GPT, BERT, and ViT, and plan to implement more in my ongoing project [TransformerHub](https://github.com/BubbleJoe-BrownU/TransformerHub). I have plenty of experience with interacting with CLIP and GPT for zero-shot learning, generating pseudo labels, and conducting RLAIF, namely reinforcing learning from AI feedback. I am also familiar with techniques that allow today's large models to train and inference, like gradient accumulation, mixed precision training, distributed data parallelism, ZeRO parallelism, etc.
 
