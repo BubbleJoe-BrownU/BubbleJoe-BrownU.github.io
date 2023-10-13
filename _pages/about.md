@@ -25,7 +25,7 @@ Previously, in 2022, I received my bachelor's degree with honors at <a href='htt
 
 Email: jiayu_zheng (at) brown.edu
 
-My <a href='https://drive.google.com/file/d/1s-rXey7FF44fQ7-nKuw1CPvRphzxEUey/view'>CV</a> (up to August 2023) can be viewed here.
+My <a href='https://drive.google.com/file/d/1AeVclEoWoqCmnSBGeKTlWVzv2VIsCQg8/view?usp=sharing'>CV</a> (up to August 2023) can be viewed here.
 
 # 🔍 Current Research Interests
 
