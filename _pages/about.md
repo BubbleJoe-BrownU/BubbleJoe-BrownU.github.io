@@ -77,7 +77,7 @@ Licheng Xu, Xin Li, Miaojiong Tang, Luotian Yuan, **Jiayu Zheng**, Shuoqing Zhan
 
 # 📖 Educations
 - *2022.09 - Present*, *Sc.M* in Data Science, Data Science Institute, Brown University. 
-- *2018.09 - 2022.06*, *Sc.B* in Chemistry with Honors, Cho KoChen Honors College, Zhejiang University. 
+- *2018.09 - 2022.06*, *Sc.B* in Chemistry with the Highest Distinction, Cho KoChen Honors College, Zhejiang University. 
 
 # 💬 Services
 - *2023.09 - Present*, Teaching Assistant, CS1410 Artificial Intelligence, Brown University.
