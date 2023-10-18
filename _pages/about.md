@@ -21,7 +21,7 @@ Hi! I am a data science master's student at Brown University, where I am working
 
 I have comprehensive knowledge of machine learning and deep learning algorithms and have implemented many of them, including but not limited to CNNs, RNNs, DGNs, GANs. I also implemented many Transformer models, including Transformer, GPT, BERT, and ViT, and plan to implement more in my ongoing project [TransformerHub](https://github.com/BubbleJoe-BrownU/TransformerHub). I have plenty of experience with interacting with CLIP and GPT for zero-shot learning, generating pseudo labels, and conducting RLAIF, namely reinforcing learning from AI feedback. I am also familiar with techniques that allow today's large models to train and inference, like gradient accumulation, mixed precision training, distributed data parallelism, ZeRO parallelism, etc.
 
-Previously, in 2022, I received my bachelor's degree with honors at <a href='http://ckc.zju.edu.cn/ckcen/wbout/list.htm'>Cho Kochen Honors College</a>, Zhejiang University. I also got a mini-minor certificate in computer science during 2021 - 2022.
+Previously, in 2022, I received my bachelor's degree with the highest distinction at <a href='http://ckc.zju.edu.cn/ckcen/wbout/list.htm'>Cho Kochen Honors College</a>, Zhejiang University. I also got a mini-minor certificate in computer science during 2021 - 2022.
 
 Email: jiayu_zheng (at) brown.edu
 
