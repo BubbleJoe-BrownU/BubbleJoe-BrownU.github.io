@@ -25,7 +25,7 @@ Previously, in 2022, I received my bachelor's degree with the highest distinctio
 
 Email: jiayu_zheng (at) brown.edu
 
-My <a href='https://drive.google.com/file/d/1AeVclEoWoqCmnSBGeKTlWVzv2VIsCQg8/view?usp=sharing'>CV</a> (up to August 2023) can be viewed here.
+My <a href='https://bubblejoe-brownu.github.io/materials/jiayu_zheng_resume.pdf'>CV</a> (up to September 2023) can be viewed here.
 
 # 🔍 Current Research Interests
 
