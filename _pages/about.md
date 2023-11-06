@@ -21,15 +21,15 @@ Hi! I am a data science master's student at Brown University, where I am working
 
 I have comprehensive knowledge of machine learning and deep learning algorithms and have implemented many of them, including but not limited to CNNs, RNNs, DGNs, GANs. I also implemented many Transformer models, including Transformer, GPT, BERT, and ViT, and plan to implement more in my ongoing project [TransformerHub](https://github.com/BubbleJoe-BrownU/TransformerHub). I have plenty of experience with interacting with CLIP and GPT for zero-shot learning, generating pseudo labels, and conducting RLAIF, namely reinforcing learning from AI feedback. I am also familiar with techniques that allow today's large models to train and inference, like gradient accumulation, mixed precision training, distributed data parallelism, ZeRO parallelism, etc.
 
-Previously, in 2022, I received my bachelor's degree with the highest distinction at <a href='http://ckc.zju.edu.cn/ckcen/wbout/list.htm'>Cho Kochen Honors College</a>, Zhejiang University. I also got a mini-minor certificate in computer science during 2021 - 2022.
+Previously, in 2022, I received my bachelor's degree with honors at <a href='http://ckc.zju.edu.cn/ckcen/wbout/list.htm'>Cho Kochen Honors College</a>, Zhejiang University. I also got a mini-minor certificate in computer science during 2021 - 2022.
 
 Email: jiayu_zheng (at) brown.edu
 
-My <a href='https://bubblejoe-brownu.github.io/materials/jiayu_zheng_resume.pdf'>CV</a> (up to September 2023) can be viewed here.
+To learn more about me, please check my <a href='https://bubblejoe-brownu.github.io/materials/jiayu_zheng_resume.pdf'>CV</a>.
 
 # 🔍 Current Research Interests
 
-Currently, I am researching improving language model performance by leveraging images as additional supervision signals at the Conversational AI Lab. My research interests include three aspects. My research experience largely lies in computational linguistics and vision-language models. My current research interests include
+My research experience largely lies in **Natural Language Processing (NLP)** and **Vision-Language Models (VLMs)**. Currently, I am doing research on improving language model performance by leveraging images as additional supervision signals at the Conversational AI Lab. My current research interests include three aspects:
 - (1) To **make high-performance models more memory- and compute-efficient with better parallelism algorithms and model architectures**
 
 [//]: <! This goal could be approached on both the algorithm side and the hardware side. There has been research in model compression, like knowledge distillation, to enable smaller student models to predict like large teacher models. Works like Sparse Transformer, Longformer, and BigBird provide architectural innovations like shifted window attention and dilated attention, which reduce the formidable quadratic memory requirement without significant loss of performance. On the hardware side, carefully managing KV cache and offloading part of the model to CPU RAM lead to significantly improved throughput during inference. >
@@ -42,9 +42,9 @@ Currently, I am researching improving language model performance by leveraging i
 
 
 # 🔥 News
-- *2023.06*: &nbsp;🎉🎉 Research intern at Conversational AI Lab, Brown University.
+- *2023.06*: &nbsp;🎉🎉 Research internship at Conversational AI Lab, Brown University.
 - *2022.09*: &nbsp;🎉🎉 I'll be joining Brown University as a data science MS student.
-- *2022.06*: &nbsp;🎉🎉 Graduated from Zhejiang University as Outstanding Graduates.
+- *2022.06*: &nbsp;🎉🎉 Graduated from Zhejiang University as Outstanding Graduates (rank 2% among a cohort of 101 students).
 
 # 📝 Publications and Projects
 
@@ -75,19 +75,22 @@ Licheng Xu, Xin Li, Miaojiong Tang, Luotian Yuan, **Jiayu Zheng**, Shuoqing Zhan
 </div>
 
 # 🎖 Honors and Awards
-- *2022.05* Outstanding Graduates.
-- *2021.10* Zhejiang University Scholarship, First Prize.
-- *2019.10* Zhejiang University Scholarship, First Prize. 
+- *2022.06* Outstanding Graduates of Zhejiang University
+- *2021.10* Cho Kochen Honors College Scholarship for Innovation
+- *2021.10* Zhejiang University Scholarship, First Prize
+- *2020.10* Cho Kochen Honors College Scholarship for Innovation
+- *2020.10* Zhejiang University Scholarship, Third Prize
+- *2019.10* Zhejiang University Scholarship, First Prize 
 - *2019.09* Outstanding Students. 
 
 # 📖 Educations
-- *2022.09 - Present*, *Sc.M* in Data Science, Data Science Institute, Brown University. 
-- *2018.09 - 2022.06*, *Sc.B* in Chemistry with the Highest Distinction, Cho KoChen Honors College, Zhejiang University. 
+- *2022.09 - Present*, *Sc.M.* in Data Science, Data Science Institute, Brown University. 
+- *2018.09 - 2022.06*, *Sc.B.* in Chemistry with Honors, Cho KoChen Honors College, Zhejiang University. 
 
 # 💬 Services
 - *2023.09 - Present*, Teaching Assistant, CS1410 Artificial Intelligence, Brown University.
 - *2022.03 - 2022.03*, Mentor for Women in Data Science (WiDS), Brown University.
-- *2020.02 - 2020.10*, Undergraduate Head TA, Structural Chemistry, Zhejiang University.
+- *2020.02 - 2020.10*, Head Teaching Assistant, Structural Chemistry and Spectroscopy, Zhejiang University.
 
 
 # 💻 Internships
