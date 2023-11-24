@@ -76,11 +76,11 @@ Licheng Xu, Xin Li, Miaojiong Tang, Luotian Yuan, **Jiayu Zheng**, Shuoqing Zhan
 
 # 🎖 Honors and Awards
 - *2022.06* Outstanding Graduates of Zhejiang University
-- *2021.10* Cho Kochen Honors College Scholarship for Innovation
-- *2021.10* Zhejiang University Scholarship, First Prize
-- *2020.10* Cho Kochen Honors College Scholarship for Innovation
-- *2020.10* Zhejiang University Scholarship, Third Prize
-- *2019.10* Zhejiang University Scholarship, First Prize 
+- *2021.10* Cho Kochen Honors College Scholarship for Innovation (international contest award)
+- *2021.10* Zhejiang University Scholarship, First Prize (top 3%)
+- *2020.10* Cho Kochen Honors College Scholarship for Innovation (publication)
+- *2020.10* Zhejiang University Scholarship, Third Prize (top 15%)
+- *2019.10* Zhejiang University Scholarship, First Prize (top 3%)
 - *2019.09* Outstanding Students. 
 
 # 📖 Educations
@@ -89,7 +89,8 @@ Licheng Xu, Xin Li, Miaojiong Tang, Luotian Yuan, **Jiayu Zheng**, Shuoqing Zhan
 
 # 💬 Services
 - *2023.09 - Present*, Teaching Assistant, CS1410 Artificial Intelligence, Brown University.
-- *2022.03 - 2022.03*, Mentor for Women in Data Science (WiDS), Brown University.
+- *2023.04 - 2023.04*, Mentor for College-day Data Science Bootcamp, Brown University.
+- *2023.03 - 2023.03*, Mentor for Women in Data Science (WiDS), Brown University.
 - *2020.02 - 2020.10*, Head Teaching Assistant, Structural Chemistry and Spectroscopy, Zhejiang University.
 
 
