@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiayu Zheng 郑家瑜"
-description              : "Sc.M. student at Brown University. Working with deep learning, natural language processing (NLP) and vision-language models (VLM)."
+title                    : "Jiayu Zheng"
+description              : "Sc.M. student at Brown University. Working with deep learning, natural language processing (NLP), and vision-language models (VLM)."
 repository               : "BubbleJoe-BrownU/bubblejoe-brownu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiayu Zheng"
+  name             : "Jiayu Zheng 郑家瑜"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Brown University"
   location         : "Providence, RI, USA"
