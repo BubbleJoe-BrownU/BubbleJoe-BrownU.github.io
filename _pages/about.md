@@ -25,8 +25,6 @@ Hi! I am a data science master's student at Brown University🐻, where I am wor
 
 Previously, in 2022, I received my bachelor's degree with honors at <a href='http://ckc.zju.edu.cn/ckcen/wbout/list.htm'>Cho Kochen Honors College</a>, Zhejiang University. I also got a mini-minor certificate in computer science during 2021 - 2022.
 
-I am a loyal fan of Ubisoft's [Assassin's Creed](https://en.wikipedia.org/wiki/Assassin%27s_Creed) franchise. Take a leap of faith to the unknown!
-
 Email: jiayu_zheng (at) brown.edu
 
 To learn more about me, please check my <a href='https://bubblejoe-brownu.github.io/materials/jiayu_zheng_resume.pdf'>CV</a>.
@@ -116,3 +114,13 @@ Licheng Xu, Xin Li, Miaojiong Tang, Luotian Yuan, **Jiayu Zheng**, Shuoqing Zhan
 
 # 💻 Internships
 - *2023.06 - 2023.09*, Research Internship, Conversational AI Lab, Brown University.
+
+# 🪂 Misc
+I am a loyal fan of Ubisoft's [Assassin's Creed](https://en.wikipedia.org/wiki/Assassin%27s_Creed) franchise. Take a leap of faith to the unknown!
+
+As a huge consumer of espresso-based coffees, I am dreaming of starting my coffee shop one day.
+My favorites are:
+- Latte
+- Flat White
+- Cortado
+- Macchiato
