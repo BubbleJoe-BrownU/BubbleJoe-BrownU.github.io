@@ -52,7 +52,7 @@ My research experience largely lies in **Natural Language Processing (NLP)** and
 
 # 📝 Publications and Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project 2023</div><img src='images/noisy_student.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project 2023</div><img src='images/noisy_student.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GourmAIt: Training Robust Deep Neural Networks on Noisy Datasets](https://github.com/BubbleJoe-BrownU/GourmAIt)
@@ -68,16 +68,16 @@ larger-or-equal-size student model, which becomes the teacher model in the next 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project 2023</div><img src='images/noisy_student.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project 2023</div><img src='images/noisy_student.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Transformer](https://github.com/BubbleJoe-BrownU/TransformerHub)
+[TransformerHub: A Collection of Transformer-Based Models](https://github.com/BubbleJoe-BrownU/TransformerHub)
 
 **Jiayu Zheng**
 
 [[project page](https://github.com/BubbleJoe-BrownU/TransformerHub)]
 
-- Long-term project for the purpose of self-training
+- Long-term project for self-training, adopted from my final project for CS247 Deep Learning
 - Implemented various encoder-only, decoder-only, and encoder-decoder Transformer models including Transformer, BERT, GPT, ViT, and CLIP
 - Implemented advanced features like prefix causal attention, sliding window attention, rotary position embedding, extrapolable position embedding
 </div>
