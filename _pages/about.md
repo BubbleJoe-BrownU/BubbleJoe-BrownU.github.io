@@ -66,7 +66,7 @@ larger-or-equal-size student model, which becomes the teacher model in the next 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project 2023</div><img src='images/noisy_student.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project 2023</div><img src='images/transformer_hub_logo.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TransformerHub: A Collection of Transformer-Based Models](https://github.com/BubbleJoe-BrownU/TransformerHub)
