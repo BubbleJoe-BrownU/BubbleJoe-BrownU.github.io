@@ -81,6 +81,21 @@ larger-or-equal-size student model, which becomes the teacher model in the next 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project 2022</div><img src='images/cyber_barista_logo.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cyber Barista: Coffee Bean Quality Prediction](https://github.com/BubbleJoe-BrownU/hands-on-machine-learning-project)
+
+**Jiayu Zheng**
+
+[[project page](https://github.com/BubbleJoe-BrownU/hands-on-machine-learning-project)]
+
+- Course project for DATA1030 Data Science
+- Implemented an ensemble of nine models, including an ElasticNet, an XGBoost, a multi-layer perceptron (MLP), etc., to predict the quality score of coffee beans
+- Interpreted the model output using feature-based methods: random perturbation, weight magnitude, and SHAP
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Synlett 2020</div><img src='images/chem_research_pic.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
