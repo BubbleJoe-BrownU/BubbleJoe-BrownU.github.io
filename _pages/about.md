@@ -112,12 +112,12 @@ Licheng Xu, Xin Li, Miaojiong Tang, Luotian Yuan, **Jiayu Zheng**, Shuoqing Zhan
 
 # 🎖 Honors and Awards
 - *2022.06* Outstanding Graduates of Zhejiang University
-- *2021.10* Cho Kochen Honors College Scholarship for Innovation (international contest award)
-- *2021.10* Zhejiang University Scholarship, First Prize (top 3%)
-- *2020.10* Cho Kochen Honors College Scholarship for Innovation (publication)
-- *2020.10* Zhejiang University Scholarship, Third Prize (top 15%)
-- *2019.10* Zhejiang University Scholarship, First Prize (top 3%)
-- *2019.09* Outstanding Students. 
+- *2022.02* Zhejiang University Scholarship, First Prize (top 3%)
+- *2021.12* Cho Kochen Honors College Second-Class Scholarship for Elite Students in Basic Sciences
+- *2021.12* Cho Kochen Honors College Scholarship for Innovation (international contest award)
+- *2021.01* Zhejiang University Scholarship, Third Prize (top 15%)
+- *2020.01* Zhejiang University Scholarship, First Prize (top 3%)
+- *2020.01* Outstanding Students. 
 
 # 📖 Educations
 - *2022.09 - Present*, *Sc.M.* in Data Science, Data Science Institute, Brown University. 
