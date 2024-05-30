@@ -25,7 +25,7 @@ Hi! I am a data science master's student at Brown University🐻, where I am wor
 
 Previously, in 2022, I received my bachelor's degree with honors at <a href='http://ckc.zju.edu.cn/ckcen/wbout/list.htm'>Cho Kochen Honors College</a>, Zhejiang University. I also got a mini-minor certificate in computer science during 2021 - 2022.
 
-Email: jiayu_zheng (at) brown.edu
+Email: jiayuzheng99 (at) gmail.com
 
 To learn more about me, please check my <a href='https://bubblejoe-brownu.github.io/materials/jiayu_zheng_resume.pdf'>CV</a>.
 
@@ -44,6 +44,7 @@ My research experience largely lies in **Natural Language Processing (NLP)** and
 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 I'll join TikTok as a Machine Learning Engineer.
 - *2023.06*: &nbsp;🎉🎉 Research internship at Conversational AI Lab, Brown University.
 - *2022.09*: &nbsp;🎉🎉 I'll be joining Brown University as a data science MS student.
 - *2022.06*: &nbsp;🎉🎉 Graduated from Zhejiang University as Outstanding Graduates (rank 2% among a cohort of 101 students).
