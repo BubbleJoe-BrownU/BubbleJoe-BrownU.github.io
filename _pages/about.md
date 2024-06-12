@@ -147,4 +147,4 @@ My favorites are:
 - Cortado
 - Macchiato
 
-I have not done and will not do the MBTI test because I doubt its scientific grounding. Plus, I believe a human being in flesh should not be simply defined by a few tags. People should be encouraged to break boundaries and shape themselves with the current and the future in a Markovian way.
+[//]: <! I have not done and will not do the MBTI test because I doubt its scientific grounding. Plus, I believe a human being in flesh should not be simply defined by a few tags. People should be encouraged to break boundaries and shape themselves with the current and the future in a Markovian way. >
