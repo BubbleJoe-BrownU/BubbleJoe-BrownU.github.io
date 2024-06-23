@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Jiayu Zheng"
-description              : "Sc.M. student at Brown University. My skill set includes LLMs instruction fine-tuning, improving reasoning in VLMs, and LLM agent systems."
+description              : "Enchanted to decypher the chemistry between human intelligence and Artificial Intelligence in the age of deep neural networks and large language models"
+# Sc.M. student at Brown University. My skill set includes LLMs instruction fine-tuning, improving reasoning in VLMs, and LLM agent systems.
 repository               : "BubbleJoe-BrownU/bubblejoe-brownu.github.io"
 google_scholar_stats_use_cdn : true
 
