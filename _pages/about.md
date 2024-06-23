@@ -25,7 +25,7 @@ Hi! I am a data science master's student at Brown University🐻, where I am wor
 
 [\\]: <! I have comprehensive knowledge of machine learning and deep learning algorithms and have implemented many of them, including but not limited to CNNs, RNNs, DGNs, GANs. I also implemented many Transformer models, including Transformer, GPT, BERT, and ViT, and plan to implement more in my ongoing project. I have plenty of experience with interacting with CLIP and GPT for zero-shot learning, generating pseudo labels, and conducting RLAIF, namely reinforcing learning from AI feedback. >
 
-Previously, in 2022, I received my bachelor's degree with honors at <a href='http://ckc.zju.edu.cn/ckcen/wbout/list.htm'>Cho Kochen Honors College</a>, Zhejiang University. I also got a mini-minor certificate in computer science during 2021 - 2022.
+Previously, in 2022, I received my bachelor's degree with honors at <a href='http://ckc.zju.edu.cn/ckcen/wbout/list.htm'>Cho Kochen Honors College</a>, Zhejiang University. I am proud to be a member of the Qiushi Pursuit Science Class at ZJU.
 
 Email:  echo @gmail.com \| sed \'s/^/jiayuzheng99/\'
 
