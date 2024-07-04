@@ -16,8 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+I am a Machine Learning Engineer at TikTok, where I work on building Vision Language Models (VLMs) and their applications.
 
-Hi! I am a data science master's student at Brown University🐻, where I am working with several amazing professors. I am working with Prof. [Stephen Bach](https://cs.brown.edu/people/sbach/) in the BATS Lab on adapting LLMs to out-of-distribution tasks parameter-efficiently. I am also working with Prof. [Shekhar Pradhan](https://vivo.brown.edu/display/spradh15) and Prof. [Ritambhara Singh](https://ritambharasingh.com/) in the Conversational AI Lab on improving VLMs understanding of relations and orders. Starting this July, I will join TikTok as a Machine Learning Engineer!
+I did my master's program in Data Science at [Brown University](https://www.brown.edu/). During my graduate study, I was fortunate to work with Prof. [Stephen Bach](https://cs.brown.edu/people/sbach/) on improving the out-of-domain generalization of Large Language Models (LLMs) in the BATS Lab, and Prof. [Shekhar Pradhan](https://vivo.brown.edu/display/spradh15) and Prof. [Ritambhara Singh](https://ritambharasingh.com/) on advancing the reasoning ability of VLMs in the Conversational AI Lab (CAIL).
 
 [\\]: <! I am expected to graduate in 2024 and am actively applying for Ph.D. programs related to computer science, data science, and artificial intelligence. >
 
@@ -127,11 +128,12 @@ Licheng Xu, Xin Li, Miaojiong Tang, Luotian Yuan, **Jiayu Zheng**, Shuoqing Zhan
 - *2018.09 - 2022.06*, *Sc.B.* in Chemistry with Honors, Cho KoChen Honors College, Zhejiang University. 
 
 # 💬 Services
-- *2024.01 - 2024.05*, Teaching Assistant (upcoming), CS1430 Computer Vision, Brown University
-- *2023.09 - Present*, Teaching Assistant, CS1410 Artificial Intelligence, Brown University.
-- *2023.04 - 2023.04*, Mentor for College-day Data Science Bootcamp, Brown University.
-- *2023.03 - 2023.03*, Mentor for Women in Data Science (WiDS), Brown University.
-- *2020.02 - 2020.10*, Head Teaching Assistant, Structural Chemistry and Spectroscopy, Zhejiang University.
+- *2024.01 - 2024.05*, Graduate Teaching Assistant, CS1430 Computer Vision, Brown University.
+- *2023.09 - 2023.12*, Graduate Teaching Assistant, CS1410 Artificial Intelligence, Brown University.
+- *2023.04 - 2023.04*, Mentor, College-day Data Science Bootcamp, Brown University.
+- *2023.03 - 2023.03*, Mentor, Women in Data Science (WiDS), Brown University.
+
+[//]: <!- *2020.02 - 2020.10*, Head Teaching Assistant, Structural Chemistry and Spectroscopy, Zhejiang University. >
 
 
 # 💻 Internships
