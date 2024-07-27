@@ -124,7 +124,7 @@ Licheng Xu, Xin Li, Miaojiong Tang, Luotian Yuan, **Jiayu Zheng**, Shuoqing Zhan
 - *2020.01* Outstanding Students. 
 
 # 📖 Educations
-- *2022.09 - Present*, *Sc.M.* in Data Science, Data Science Institute, Brown University. 
+- *2022.09 - 2024.05*, *Sc.M.* in Data Science, Data Science Institute, Brown University. 
 - *2018.09 - 2022.06*, *Sc.B.* in Chemistry with Honors, Cho KoChen Honors College, Zhejiang University. 
 
 # 💬 Services
